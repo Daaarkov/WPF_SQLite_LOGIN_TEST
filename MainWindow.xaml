@@ -1,0 +1,15 @@
+﻿<Window x:Class="login_prova.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:login_prova"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1080" Width="1920"
+        ResizeMode="CanResizeWithGrip"
+        Background="#242424"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Content="MainPage" FontSize="50" FontWeight="Bold"></Label>
+    </Grid>
+</Window>
