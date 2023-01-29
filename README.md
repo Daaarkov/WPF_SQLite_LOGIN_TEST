@@ -30,6 +30,9 @@ A login test using WPF (C#) and SQLite
     ```bash
     admin
     ```
+    
+## Modifing Database
+To modify database you can use all SQLite client software
 
 
 ***
