@@ -32,7 +32,7 @@ A login test using WPF (C#) and SQLite
     ```
     
 ## Modifing Database
-To modify database you can use all SQLite client software
+To modify database you can use one SQLite client software
 
 
 ***
